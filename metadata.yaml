@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2298
     wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17860#Stories-from-Hans-Andersen
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
